@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+# Build output
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# Solution user options
+*.slnx
