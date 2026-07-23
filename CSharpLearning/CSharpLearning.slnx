@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BasicCSharp/BasicCSharp.csproj" />
+  <Project Path="OOP/OOP.csproj" />
+</Solution>
