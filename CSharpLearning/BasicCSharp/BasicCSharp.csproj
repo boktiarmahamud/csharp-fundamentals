@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BasicCSharp.LamdaExpression</StartupObject>
+    <StartupObject>BasicCSharp.StudentManagement</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
