@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xxrOwGj0FRE=",
+  "dgSpecHash": "u3H6G16gcrg=",
   "success": true,
   "projectFilePath": "H:\\Project\\csharp-fundamentals\\CSharpLearning\\BasicCSharp\\BasicCSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Boktiar Mahamud\\.nuget\\packages\\documentformat.openxml\\3.5.1\\documentformat.openxml.3.5.1.nupkg.sha512",
+    "C:\\Users\\Boktiar Mahamud\\.nuget\\packages\\documentformat.openxml.framework\\3.5.1\\documentformat.openxml.framework.3.5.1.nupkg.sha512",
+    "C:\\Users\\Boktiar Mahamud\\.nuget\\packages\\system.io.packaging\\10.0.2\\system.io.packaging.10.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

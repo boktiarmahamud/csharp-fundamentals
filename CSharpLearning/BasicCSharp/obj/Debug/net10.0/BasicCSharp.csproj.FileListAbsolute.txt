@@ -27,3 +27,8 @@ H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\obj\Debug\net10.0\refi
 H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.pdb
 H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.genruntimeconfig.cache
 H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\obj\Debug\net10.0\ref\BasicCSharp.dll
+H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\bin\Debug\net10.0\System.IO.Packaging.dll
+H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.csproj.AssemblyReference.cache
+H:\Project\csharp-fundamentals\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSh.C107B36C.Up2Date
