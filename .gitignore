@@ -9,3 +9,6 @@ obj/
 # User-specific files
 *.user
 *.suo
+
+# Solution user options
+*.slnx

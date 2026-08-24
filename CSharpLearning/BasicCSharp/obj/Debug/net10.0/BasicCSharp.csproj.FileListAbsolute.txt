@@ -1,0 +1,14 @@
+H:\Project\CSharpLearning\BasicCSharp\bin\Debug\net10.0\BasicCSharp.exe
+H:\Project\CSharpLearning\BasicCSharp\bin\Debug\net10.0\BasicCSharp.deps.json
+H:\Project\CSharpLearning\BasicCSharp\bin\Debug\net10.0\BasicCSharp.runtimeconfig.json
+H:\Project\CSharpLearning\BasicCSharp\bin\Debug\net10.0\BasicCSharp.dll
+H:\Project\CSharpLearning\BasicCSharp\bin\Debug\net10.0\BasicCSharp.pdb
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.AssemblyInfoInputs.cache
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.AssemblyInfo.cs
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.csproj.CoreCompileInputs.cache
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.dll
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\refint\BasicCSharp.dll
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.pdb
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\BasicCSharp.genruntimeconfig.cache
+H:\Project\CSharpLearning\BasicCSharp\obj\Debug\net10.0\ref\BasicCSharp.dll
