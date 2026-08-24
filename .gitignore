@@ -1,11 +1,12 @@
 # Visual Studio
 .vs/
+**/.vs/
 
 # Build output
 bin/
 obj/
 
-# User files
+# User-specific files
 *.user
 *.suo
 
