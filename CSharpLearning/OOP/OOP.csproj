@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>OOP.CopyConstructor</StartupObject>
+    <StartupObject>OOP.HierarchicalInheritance</StartupObject>
   </PropertyGroup>
 
 </Project>
