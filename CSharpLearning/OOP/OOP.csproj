@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>OOP.RuntimePolymorphism</StartupObject>
+    <StartupObject>OOP.AbstructionAchievedByInterface</StartupObject>
   </PropertyGroup>
 
 </Project>
