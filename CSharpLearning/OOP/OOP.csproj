@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>OOP.HierarchicalInheritance</StartupObject>
+    <StartupObject>OOP.RuntimePolymorphism</StartupObject>
   </PropertyGroup>
 
 </Project>
