@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BasicCSharp.LINQ</StartupObject>
+    <StartupObject>BasicCSharp.FileHandling</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
