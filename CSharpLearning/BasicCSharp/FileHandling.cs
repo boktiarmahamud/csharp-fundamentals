@@ -18,6 +18,21 @@ namespace BasicCSharp
             streamWriter.Close();
 
             Console.WriteLine("File created and data written successfully.");
+
+            // Read from file
+            
+            Console.WriteLine("Read from file");
+            string filePath = "I://example1.txt";
+            FileStream readFileStream = new FileStream(
+            filePath,
+            FileMode.Open,
+            FileAccess.Read
+        );
+            StreamReader streamReader = new StreamReader(readFileStream);
+            string content = streamReader.ReadToEnd();
+            streamReader.Close();
+            Console.WriteLine("File Content:");
+            Console.WriteLine(content);
         }
     }
 }
