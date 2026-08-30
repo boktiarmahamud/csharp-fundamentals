@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BasicCSharp.DirectoryGetFiles</StartupObject>
+    <StartupObject>BasicCSharp.AsynchronousProgramming</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
