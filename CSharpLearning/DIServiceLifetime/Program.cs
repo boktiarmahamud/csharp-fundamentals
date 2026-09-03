@@ -6,6 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 // service transient: A new instance is provided every time it is requested.
 builder.Services.AddTransient<IMessageService, MessageService>();
+// Scoped: A new instance is created once per request within the scope. It is equivalent to a singleton in the context of a single request.
+builder.Services.AddScoped<IScopedMessageService, ScopedMessageService>();
+
+// Singleton : A single instance is created and shared throughout the application's lifetime.
+builder.Services.AddSingleton<ISingletonMessageService, SingletonMessageService>();
 
 var app = builder.Build();
 

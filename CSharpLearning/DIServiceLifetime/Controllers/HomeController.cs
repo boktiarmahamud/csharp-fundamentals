@@ -10,11 +10,26 @@ namespace DIServiceLifetime.Controllers
         private readonly IMessageService _messageService;
         private readonly IMessageService _messageService2;
 
-        public HomeController(IMessageService messageService, IMessageService messageService2)
+        private readonly IScopedMessageService _scopedMessageService;
+        private readonly IScopedMessageService _scopedMessageService2;
+
+        private readonly ISingletonMessageService _singletonMessageService;
+        private readonly ISingletonMessageService _singletonMessageService2;   
+
+        public HomeController(IMessageService messageService, IMessageService messageService2, 
+            IScopedMessageService scopedMessageService, IScopedMessageService scopedMessageService2,
+            ISingletonMessageService singleton1, ISingletonMessageService singleton2)
         {
-            ViewBag.MessageService = "Life time of Transient service";
+            
             _messageService = messageService;
             _messageService2 = messageService2;
+
+            
+            _scopedMessageService = scopedMessageService;
+            _scopedMessageService2 = scopedMessageService2;
+
+            _singletonMessageService = singleton1;
+            _singletonMessageService2 = singleton2;
         }
 
         public IActionResult Index()
@@ -22,7 +37,13 @@ namespace DIServiceLifetime.Controllers
             return Content(
                 $"This is a Transient Service\n" +
                 $"MessageService1 ID: {_messageService.GetId()}\n" +
-                $"MessageService2 ID: {_messageService2.GetId()}"
+                $"MessageService2 ID: {_messageService2.GetId()}\n" +
+                $"This is a Scoped Service\n" +
+                $"ScopedMessageService1 ID: {_scopedMessageService.GetId()}\n" +
+                $"ScopedMessageService2 ID: {_scopedMessageService2.GetId()}\n" +
+                $"This is a Singleton Service\n" +
+                $"SingletonMessageService1 ID: {_singletonMessageService.GetId()}\n" +
+                $"SingletonMessageService2 ID: {_singletonMessageService2.GetId()}"
             );
         }
 
