@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SOLIDPrinciple.SRP_Example</StartupObject>
+    <StartupObject>SOLIDPrinciple.OCP</StartupObject>
   </PropertyGroup>
 
 </Project>
