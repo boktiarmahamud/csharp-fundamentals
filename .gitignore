@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.userprefs
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
