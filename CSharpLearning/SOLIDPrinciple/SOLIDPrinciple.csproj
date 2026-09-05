@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SOLIDPrinciple.OCP</StartupObject>
+    <StartupObject>SOLIDPrinciple.LSP</StartupObject>
   </PropertyGroup>
 
 </Project>
