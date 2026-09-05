@@ -1,5 +1,6 @@
 # Visual Studio
 .vs/
+**/.vs/
 *.user
 *.suo
 
@@ -15,3 +16,6 @@ obj/
 
 # VS Code
 .vscode/
+
+# Solution user options
+*.slnx
