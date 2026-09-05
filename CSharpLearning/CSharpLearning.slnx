@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="BasicCSharp/BasicCSharp.csproj" />
   <Project Path="CleanCode/CleanCode.csproj" Id="deddf03e-22ee-47ed-9d05-44772cde7aaa" />
+  <Project Path="DIServiceLifetime/DIServiceLifetime.csproj" Id="bc5459f2-16a7-4851-9f7e-cfb248976ddd" />
   <Project Path="OOP/OOP.csproj" />
+  <Project Path="SOLIDPrinciple/SOLIDPrinciple.csproj" Id="7cfe203c-5e52-4178-93da-40d61b848e2c" />
 </Solution>

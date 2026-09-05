@@ -1,14 +1,21 @@
 # Visual Studio
 .vs/
 **/.vs/
+*.user
+*.suo
 
 # Build output
 bin/
 obj/
 
 # User-specific files
-*.user
-*.suo
+*.userprefs
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
 
 # Solution user options
 *.slnx
