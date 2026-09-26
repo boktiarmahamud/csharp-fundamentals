@@ -1,0 +1,15 @@
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\bin\Debug\net10.0\CleanCode.exe
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\bin\Debug\net10.0\CleanCode.deps.json
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\bin\Debug\net10.0\CleanCode.runtimeconfig.json
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\bin\Debug\net10.0\CleanCode.dll
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\bin\Debug\net10.0\CleanCode.pdb
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\CleanCode.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\CleanCode.AssemblyInfoInputs.cache
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\CleanCode.AssemblyInfo.cs
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\CleanCode.csproj.CoreCompileInputs.cache
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\CleanCode.sourcelink.json
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\CleanCode.dll
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\refint\CleanCode.dll
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\CleanCode.pdb
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\CleanCode.genruntimeconfig.cache
+H:\Project\csharp-fundamentals\CSharpLearning\CleanCode\obj\Debug\net10.0\ref\CleanCode.dll
